@@ -24,7 +24,6 @@
   "features": [
     "TranslationFile"
   ],
-  "showMyCode": true,
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
