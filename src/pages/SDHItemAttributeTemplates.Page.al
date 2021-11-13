@@ -13,6 +13,7 @@ page 50000 "SDH Item Attribute Templates"
                 {
                     ToolTip = 'Specifies the value of the Code field.';
                     ApplicationArea = All;
+                    Visible = false;
                 }
                 field("Attribute Name"; Rec."Attribute Name")
                 {
