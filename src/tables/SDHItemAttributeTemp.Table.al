@@ -16,7 +16,7 @@ table 50000 "SDH Item Attribute Temp."
         field(2; "Line No."; Integer)
         {
             DataClassification = CustomerContent;
-            Caption = 'Code';
+            Caption = 'Line No.';
             NotBlank = true;
         }
         field(4; "Attribute Name"; Text[250])
