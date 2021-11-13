@@ -1,0 +1,34 @@
+{
+  "id": "60cbd9aa-4699-4122-92d8-f8c10bde007e",
+  "name": "Item Attribute Template",
+  "publisher": "Saurav Dhyani",
+  "brief": "This Repo Contain Example for Item Attribute Template.",
+  "description": "Adding Attribute Template In Item Template.",
+  "version": "1.19.0.0",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/contact/",
+  "contextSensitiveHelpUrl": "https://www.sauravdhyani.com/",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "features": [
+    "TranslationFile"
+  ],
+  "showMyCode": true,
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
